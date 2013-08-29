@@ -15,7 +15,7 @@ body {
 
 header {
   display: block;
-  padding: 1rem 0rem 50% 0rem;
+  padding: 1rem 0rem 1rem 0rem;
   font-family: 'Lato', sans-serif;
   text-align: right;
   border-top: solid 1px black; }
@@ -33,9 +33,17 @@ header {
   font-family: 'Cutive', serif;
   font-size: 24px;
   text-align: right; }
-  #sidebar ul {
+  #sidebar table#icons {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 3px 0 0; }
+    #sidebar table#icons td {
+      padding: 0 3px 0 1em; }
+  #sidebar table {
+    float: right;
+    bottom: 0;
     list-style-type: none;
-    line-height: 1.5; }
+    line-height: 1.8; }
 
 .main {
   padding: 3rem 0rem 0rem 0rem;
@@ -46,6 +54,6 @@ header {
   top: 0;
   bottom: 0;
   font-family: 'Cutive', serif;
-  line-height: 1.4; }
+  line-height: 1.5; }
   .main p {
     margin-bottom: 1em; }

@@ -18,7 +18,7 @@ body {
 
 header {
   display: block;
-  padding: 1rem 0rem 50% 0rem;
+  padding: 1rem 0rem 1rem 0rem;
   font-family: 'Lato', sans-serif;
   text-align: right;
   border-top: solid 1px black;
@@ -39,8 +39,23 @@ header {
   font-size: 24px;
   text-align: right;
 
-  ul {list-style-type: none;
-    line-height: 1.5;
+  table#icons {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 3px 0 0;
+
+    td {
+      padding: 0 3px 0 1em;
+    }
+  }
+
+  table {
+    // padding: 0 0 0 0.50em;
+    float: right;
+    bottom: 0;
+    list-style-type: none;
+    line-height: 1.8;
+    // border: 2px black solid;
   }
 }
 
@@ -53,7 +68,7 @@ header {
   top: 0;
   bottom: 0;
   font-family: 'Cutive', serif;
-  line-height: 1.4;
+  line-height: 1.5;
   p {
     margin-bottom: 1em;
   }
