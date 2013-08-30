@@ -59,6 +59,10 @@ header {
   line-height: 1.5; }
 
 .posts {
-  padding: 35px 0;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em; }
+
+.post_category_line {
+  padding: 20px 0;
   border-bottom: 1px solid #ff0000; }
+  .post_category_line img {
+    vertical-align: middle; }

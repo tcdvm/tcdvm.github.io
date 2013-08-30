@@ -2,23 +2,11 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2013-08-28 21:02:36
-categories: jekyll update
+category: project
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, itaque illum maiores quo quia pariatur rerum dolorum sint blanditiis quam ipsa impedit vero! Earum, autem reiciendis debitis eaque id nam ipsa eveniet voluptas ad minima amet vitae iusto. Qui, dolores, ipsa maiores dignissimos tenetur velit libero nihil nulla voluptates eius.
 
-Jekyll also offers powerful support for code snippets:
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, neque, autem, dolorem, tempore cum aliquam officiis tenetur consequuntur nulla eius est natus molestias repellat minima earum vitae mollitia consequatur adipisci quasi fuga explicabo aliquid corrupti voluptates id nisi? Suscipit, dicta, expedita consequatur facilis doloremque omnis atque non ea aut vitae odio excepturi. Aliquid, necessitatibus similique reprehenderit est voluptatibus nihil repellendus!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+	
