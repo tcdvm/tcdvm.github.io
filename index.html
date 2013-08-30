@@ -3,11 +3,9 @@ layout: homepage
 title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+  <h3>All posts:</h3>
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <article class="posts">
+      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> {{ post.excerpt }}
+  </article>
     {% endfor %}
-  </ul>
-</div>

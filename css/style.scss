@@ -38,7 +38,7 @@ header {
   color: #000;
   font-family: 'Cutive', serif;
   font-size: 24px;
-  text-align: right;
+  text-align: left;
 
   table#icons {
     margin-left: auto;
@@ -48,7 +48,12 @@ header {
     td {
       padding: 0 3px 0 1em;
     }
+
   }
+    textarea#infoquote {
+      padding: 0 0 0 3em;
+      border: 0px;
+    }
 
   table {
     // padding: 0 0 0 0.50em;
@@ -70,7 +75,9 @@ header {
   bottom: 0;
   font-family: 'Cutive', serif;
   line-height: 1.5;
-  p {
-    margin-bottom: 1em;
-  }
 }
+ .posts {
+    padding: 35px 0;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #ff0000;
+ }
