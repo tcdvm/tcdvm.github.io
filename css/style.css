@@ -39,8 +39,8 @@ header {
     #sidebar table#icons td {
       padding: 0 3px 0 1em; }
   #sidebar textarea#infoquote {
-    padding: 0 0 0 3em;
-    border: 0px; }
+    border: 1px solid black;
+    margin-left: 15px; }
   #sidebar table {
     float: right;
     bottom: 0;
