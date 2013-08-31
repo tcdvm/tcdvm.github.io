@@ -75,18 +75,40 @@ header {
   top: 0;
   bottom: 0;
   font-family: 'Cutive', serif;
-  line-height: 1.5;
+  line-height: 1.6;
 }
  .posts {
     // padding: 25px 0;
     margin-bottom: 1.5em;
+    .post_title {
+        font-family: 'Lato', sans-serif;
+        font-weight: bold;
+        padding: 0 0 1em 0;
+        a:link {
+          color: #000;
+          text-decoration: none;
+        }
+        a:visited {
+          color: #000;
+          text-decoration: none;
+        }
+        a:hover {
+          color: #000;
+          text-decoration: underline;
+        }
+        a:active {
+          color: #000;
+          text-decoration: none;
+        }
+      }
  }
 
  .post_category_line {
-    padding: 20px 0; 
-    border-bottom: 1px solid #ff0000;
+    padding: 20px 0 33px 0; 
+    border-bottom: 1px solid #b3b3b1;
 
     img {
       vertical-align: middle;
     }
  }
+

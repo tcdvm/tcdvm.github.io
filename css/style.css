@@ -56,13 +56,29 @@ header {
   top: 0;
   bottom: 0;
   font-family: 'Cutive', serif;
-  line-height: 1.5; }
+  line-height: 1.6; }
 
 .posts {
   margin-bottom: 1.5em; }
+  .posts .post_title {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    padding: 0 0 1em 0; }
+    .posts .post_title a:link {
+      color: #000;
+      text-decoration: none; }
+    .posts .post_title a:visited {
+      color: #000;
+      text-decoration: none; }
+    .posts .post_title a:hover {
+      color: #000;
+      text-decoration: underline; }
+    .posts .post_title a:active {
+      color: #000;
+      text-decoration: none; }
 
 .post_category_line {
-  padding: 20px 0;
-  border-bottom: 1px solid #ff0000; }
+  padding: 20px 0 33px 0;
+  border-bottom: 1px solid #b3b3b1; }
   .post_category_line img {
     vertical-align: middle; }
