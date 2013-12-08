@@ -11,7 +11,7 @@ For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap
 /* Global Styles */
 
 body {
-  margin-top: 50px;
+  /*margin-top: 50px;*/
 }
 
 #wrapper {
@@ -89,7 +89,7 @@ table.tablesorter thead tr th:hover {
   /* Wrappers */
 
   #wrapper {
-	padding-left: 225px;
+	padding-left: 285px;
   }
 
   #page-wrapper {
@@ -99,11 +99,11 @@ table.tablesorter thead tr th:hover {
   /* Side Nav */
 
   .side-nav {
-	margin-left: -225px;
-	left: 225px;
-	width: 225px;
+	margin-left: -285px;
+	left: 285px;
+	width: 285px;
 	position: fixed;
-	top: 50px;
+	/*top: 50px;*/
 	height: 100%;
 	border-radius: 0;
 	border: none;
@@ -115,7 +115,7 @@ table.tablesorter thead tr th:hover {
 
   .side-nav>li.dropdown>ul.dropdown-menu {
 	position: relative;
-	min-width: 225px;
+	min-width: 285px;
 	margin: 0;
 	padding: 0;
 	border: none;
@@ -138,7 +138,7 @@ table.tablesorter thead tr th:hover {
   }
 
   .side-nav>li>a {
-	width: 225px;
+	width: 285px;
   }
 
   .navbar-inverse .navbar-nav>li>a:hover,
@@ -154,6 +154,15 @@ table.tablesorter thead tr th:hover {
 
   .messages-dropdown .dropdown-menu li a {
 	white-space: normal;
+  }
+
+  li > h1 {
+    color: #999999;
+    padding: 10px 15px;
+  }
+
+  .jumbotron {
+    border-radius: 6px;
   }
 
 }

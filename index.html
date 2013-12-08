@@ -2,22 +2,7 @@
 layout: homepage
 title: Your New Jekyll Site
 ---
-
-<!-- <h3>All posts:</h3> -->
-    {% for post in site.posts %}
-	  <article class="posts">
-	       <h1 class="post_title"><a href="{{ post.url }}">{{ post.title }}</a> </h1>{{ post.subtitle }}
-	       <div class="post_category_line">
-		      {% case post.category %}
-			      {% when 'eyeballs' %}
-			      	<img src="/imgs/eye-icon.jpg">
-			      {% when 'personal' %}
-			      	<img src="/imgs/about-icon.jpg">
-			      {% when 'project' %}
-			      	<img src="/imgs/lightbulb-icon.jpg">
-		      {% endcase %}
-		      &nbsp; Created on: <span>{{ post.date | date_to_string }}</span>
-		  </div>
-	  </article>
-    {% endfor %}
-
+<div class="jumbotron">
+	<h1>Hi there.</h1>
+	<p>Welcome to my awesome website.</p>
+</div>

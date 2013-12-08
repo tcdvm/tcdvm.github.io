@@ -3,23 +3,135 @@
 	{
 		"selected_items":
 		[
+			[
+				"td",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"font-",
+				"font-family"
+			]
 		]
 	},
 	"buffers":
 	[
 	],
-	"build_system": "",
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				":n",
+				"File: New View into File"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"synsass",
+				"Set Syntax: Sass"
+			],
+			[
+				":4",
+				"Set Syntax: camlp4"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"setsass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntaxsas",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			]
 		],
-		"width": 0.0
+		"width": 507.0
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 125.0
 	},
 	"distraction_free":
 	{
@@ -32,10 +144,34 @@
 	},
 	"file_history":
 	[
+		"/Users/thomas/dev/thomasdvm/css/post.scss",
+		"/Users/thomas/dev/thomasdvm/css/style.scss",
+		"/Users/thomas/dev/thomasdvm/_posts/2013-08-30-first-post.md",
+		"/Users/thomas/dev/thomasdvm/_layouts/post.html",
+		"/Users/thomas/dev/thomasdvm/index.html",
+		"/Users/thomas/dev/thomasdvm/css/post.css",
+		"/Users/thomas/dev/thomasdvm/_layouts/homepage.html",
+		"/Users/thomas/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/thomas/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/thomas/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/thomas/dev/thomasdvm/_layouts/default.html",
+		"/Users/thomas/dev/thomasdvm/_posts/2013-08-29-blah-blah.md",
+		"/Users/thomas/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/thomas/dev/thomasdvm/_posts/2013-08-29-blah.md",
+		"/Users/thomas/dev/thomasdvm/_posts/2013-08-28-welcome-to-jekyll.markdown",
+		"/Users/thomas/dev/thomasdvm/thomasdvm.sublime-project",
+		"/Users/thomas/dev/thomasdvm/blah.html",
+		"/Users/thomas/dev/thomasdvm/stylesheets/style.scss",
+		"/Users/thomas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/thomas/dev/thomasdvm/stylesheets/style.css",
+		"/Users/thomas/dev/thomasdvm/stylesheets/test.scss",
+		"/Users/thomas/dev/thomasdvm/test.html",
+		"/tmp/subl stdin vrphSN.txt",
+		"/tmp/subl stdin rcy2SD.txt"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -49,6 +185,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border",
+			"ctrl",
+			"group",
+			"background",
+			"stack",
+			"border",
+			"li",
+			"border",
+			"-->",
+			"life forms",
+			"</li>",
+			"font",
+			"background",
+			"ren­der­ing",
+			"optimizeLegibility"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -57,7 +208,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -73,11 +224,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -102,6 +253,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -112,6 +267,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"style",
+				"css/style.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"",
+				"stylesheets/style.css"
+			]
 		],
 		"width": 0.0
 	},
