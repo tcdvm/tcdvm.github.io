@@ -21,6 +21,7 @@ body {
 #page-wrapper {
   width: 100%;
   padding: 5px 15px;
+  background-image:url('imgs/computer.jpg')
 }
 
 /* Nav Messages */
@@ -89,7 +90,7 @@ table.tablesorter thead tr th:hover {
   /* Wrappers */
 
   #wrapper {
-	padding-left: 285px;
+	padding-left: 300px;
   }
 
   #page-wrapper {
@@ -99,9 +100,9 @@ table.tablesorter thead tr th:hover {
   /* Side Nav */
 
   .side-nav {
-	margin-left: -285px;
-	left: 285px;
-	width: 285px;
+	margin-left: -300px;
+	left: 300px;
+	width: 300px;
 	position: fixed;
 	/*top: 50px;*/
 	height: 100%;
@@ -115,7 +116,7 @@ table.tablesorter thead tr th:hover {
 
   .side-nav>li.dropdown>ul.dropdown-menu {
 	position: relative;
-	min-width: 285px;
+	min-width: 300px;
 	margin: 0;
 	padding: 0;
 	border: none;
