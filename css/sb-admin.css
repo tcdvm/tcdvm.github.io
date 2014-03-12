@@ -22,7 +22,7 @@ body {
   width: 100%;
   padding: 5px 15px;
   background-image:url('/imgs/cat.jpg');
-  /*background-size: 100%;*/
+  background-size: 100%;
   /*background-repeat: no-repeat;*/
 }
 
@@ -168,7 +168,8 @@ table.tablesorter thead tr th:hover {
 
   .jumbotron {
     border-radius: 8px;
-    width: 650px;
+    width: 640px;
+    
   }
 
   .nav > li {
